@@ -5,7 +5,8 @@ Has all core features for handling windows 10 output and screen input.
 from PIL import ImageGrab
 from PIL import ImageOps
 from numpy import *
-import win32api,win32con
+import win32con
+import win32api
 import numpy
 import os
 import time
